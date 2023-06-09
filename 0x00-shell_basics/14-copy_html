@@ -1,2 +1,2 @@
 #!/bin/bash
-mv file_0.html ../file_0.html
+mv file_*.html ../file_*.html
